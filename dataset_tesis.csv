@@ -1,0 +1,641 @@
+N;Tratamiento;Dosis;Identificacion;Sexo;Raza;Edad;Peso_se_0;Peso_se_1;Peso_se_2;Peso_se_3;Peso_se_4;Ganan_peso;Valor;Detalle;Biomarker;Tiempo;Ref;Unidad
+21;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.50;473.00;7.00;42.6;H;ALB;inicial;25.0-36.0;g/L
+22;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.50;311.00;312.00;313.00;5.00;32;NA;ALB;inicial;25.0-36.0;g/L
+23;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;25.4;NA;ALB;inicial;25.0-36.0;g/L
+24;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.50;499.00;500.00;7.00;35.2;NA;ALB;inicial;25.0-36.0;g/L
+25;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.50;476.00;477.50;479.00;6.00;32.5;NA;ALB;inicial;25.0-36.0;g/L
+26;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;33.5;NA;ALB;inicial;25.0-36.0;g/L
+27;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.50;405.00;406.50;408.00;8.00;36.8;H;ALB;inicial;25.0-36.0;g/L
+28;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.50;457.00;7.00;40.1;H;ALB;inicial;25.0-36.0;g/L
+29;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.50;469.00;469.50;470.00;3.00;39;H;ALB;inicial;25.0-36.0;g/L
+30;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;33.5;NA;ALB;inicial;25.0-36.0;g/L
+31;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;30.1;NA;ALB;inicial;25.0-36.0;g/L
+32;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;31.5;NA;ALB;inicial;25.0-36.0;g/L
+33;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;28.2;NA;ALB;inicial;25.0-36.0;g/L
+34;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.50;489.00;490.00;491.00;6.00;27.5;NA;ALB;inicial;25.0-36.0;g/L
+35;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;31.2;NA;ALB;inicial;25.0-36.0;g/L
+36;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;33.7;NA;ALB;inicial;25.0-36.0;g/L
+37;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.50;488.50;489.50;490.00;5.00;32;NA;ALB;inicial;25.0-36.0;g/L
+38;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;26.5;L;ALB;inicial;25.0-36.0;g/L
+39;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.50;456.00;457.00;7.00;30.2;NA;ALB;inicial;25.0-36.0;g/L
+40;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;32.1;NA;ALB;inicial;25.0-36.0;g/L
+41;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.50;473.00;7.00;39.2;NA;ALB;final;25.0-36.0;g/L
+42;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.50;311.00;312.00;313.00;5.00;32;NA;ALB;final;25.0-36.0;g/L
+43;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;28.5;NA;ALB;final;25.0-36.0;g/L
+44;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.50;499.00;500.00;7.00;36;NA;ALB;final;25.0-36.0;g/L
+45;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.50;476.00;477.50;479.00;6.00;35.2;NA;ALB;final;25.0-36.0;g/L
+46;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;34.5;NA;ALB;final;25.0-36.0;g/L
+47;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.50;405.00;406.50;408.00;8.00;37.5;H;ALB;final;25.0-36.0;g/L
+48;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.50;457.00;7.00;41.5;H;ALB;final;25.0-36.0;g/L
+49;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.50;469.00;469.50;470.00;3.00;36;NA;ALB;final;25.0-36.0;g/L
+50;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;34.5;NA;ALB;final;25.0-36.0;g/L
+51;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;30.5;NA;ALB;final;25.0-36.0;g/L
+52;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;34;NA;ALB;final;25.0-36.0;g/L
+53;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;30.2;NA;ALB;final;25.0-36.0;g/L
+54;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.50;489.00;490.00;491.00;6.00;29;NA;ALB;final;25.0-36.0;g/L
+55;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;30;NA;ALB;final;25.0-36.0;g/L
+56;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;34.5;NA;ALB;final;25.0-36.0;g/L
+57;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.50;488.5;489.5;490.00;5.00;31.5;NA;ALB;final;25.0-36.0;g/L
+58;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;26.5;L;ALB;final;25.0-36.0;g/L
+59;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;30.2;NA;ALB;final;25.0-36.0;g/L
+60;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;30.2;NA;ALB;final;25.0-36.0;g/L
+61;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;97.9;H;TP;inicial;58.0-80.0;g/L
+62;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.50;311.00;312.00;313.00;5.00;70;NA;TP;inicial;58.0-80.0;g/L
+63;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;72.6;NA;TP;inicial;58.0-80.0;g/L
+64;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;80.5;NA;TP;inicial;58.0-80.0;g/L
+65;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.50;476.00;477.5;479.00;6.00;75;NA;TP;inicial;58.0-80.0;g/L
+66;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;72.5;NA;TP;inicial;58.0-80.0;g/L
+67;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.50;405.00;406.5;408.00;8.00;84.2;NA;TP;inicial;58.0-80.0;g/L
+68;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;83.2;NA;TP;inicial;58.0-80.0;g/L
+69;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.50;469.00;469.5;470.00;3.00;88;H;TP;inicial;58.0-80.0;g/L
+70;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;74;NA;TP;inicial;58.0-80.0;g/L
+71;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;78.4;NA;TP;inicial;58.0-80.0;g/L
+72;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;79.2;NA;TP;inicial;58.0-80.0;g/L
+73;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;72.1;NA;TP;inicial;58.0-80.0;g/L
+74;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.50;489.00;490.00;491.00;6.00;74.5;NA;TP;inicial;58.0-80.0;g/L
+75;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;74;NA;TP;inicial;58.0-80.0;g/L
+76;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;78.4;NA;TP;inicial;58.0-80.0;g/L
+77;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.50;488.50;489.50;490.00;5.00;78.5;NA;TP;inicial;58.0-80.0;g/L
+78;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;74.9;NA;TP;inicial;58.0-80.0;g/L
+79;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.50;456.00;457.00;7.00;75.6;NA;TP;inicial;58.0-80.0;g/L
+80;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;77.5;NA;TP;inicial;58.0-80.0;g/L
+81;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.50;473.00;7.00;87.5;NA;TP;final;58.0-80.0;g/L
+82;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;70;NA;TP;final;58.0-80.0;g/L
+83;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;75.3;NA;TP;final;58.0-80.0;g/L
+84;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;80.8;NA;TP;final;58.0-80.0;g/L
+85;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.50;479.00;6.00;77.5;NA;TP;final;58.0-80.0;g/L
+86;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;75;NA;TP;final;58.0-80.0;g/L
+87;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.50;408.00;8.00;85;NA;TP;final;58.0-80.0;g/L
+88;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.50;457.00;7.00;80;NA;TP;final;58.0-80.0;g/L
+89;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.50;470.00;3.00;83;H;TP;final;58.0-80.0;g/L
+90;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;75.5;NA;TP;final;58.0-80.0;g/L
+91;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;77;NA;TP;final;58.0-80.0;g/L
+92;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;82;NA;TP;final;58.0-80.0;g/L
+93;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;74.8;NA;TP;final;58.0-80.0;g/L
+94;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;73;NA;TP;final;58.0-80.0;g/L
+95;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;70;NA;TP;final;58.0-80.0;g/L
+96;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;79.8;NA;TP;final;58.0-80.0;g/L
+97;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;79;NA;TP;final;58.0-80.0;g/L
+98;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;74.9;NA;TP;final;58.0-80.0;g/L
+99;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;75.6;NA;TP;final;58.0-80.0;g/L
+100;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;75.6;NA;TP;final;58.0-80.0;g/L
+101;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;55.3;H;GLOB;inicial;27.0-38.0;g/L
+102;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;38;NA;GLOB;inicial;27.0-38.0;g/L
+103;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;47.2;H;GLOB;inicial;27.0-38.0;g/L
+104;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;45.3;NA;GLOB;inicial;27.0-38.0;g/L
+105;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;42.5;H;GLOB;inicial;27.0-38.0;g/L
+106;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;39;H;GLOB;inicial;27.0-38.0;g/L
+107;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;47.4;NA;GLOB;inicial;27.0-38.0;g/L
+108;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;43.1;H;GLOB;inicial;27.0-38.0;g/L
+109;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;49;H;GLOB;inicial;27.0-38.0;g/L
+110;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;40.5;NA;GLOB;inicial;27.0-38.0;g/L
+111;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;48.3;H;GLOB;inicial;27.0-38.0;g/L
+112;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;47.7;H;GLOB;inicial;27.0-38.0;g/L
+113;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;43.9;H;GLOB;inicial;27.0-38.0;g/L
+114;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;43.1;H;GLOB;inicial;27.0-38.0;g/L
+115;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;42.8;NA;GLOB;inicial;27.0-38.0;g/L
+116;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;44.7;H;GLOB;inicial;27.0-38.0;g/L
+117;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;34.5;NA;GLOB;inicial;27.0-38.0;g/L
+118;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;48.5;H;GLOB;inicial;27.0-38.0;g/L
+119;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;45.4;H;GLOB;inicial;27.0-38.0;g/L
+120;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;35;NA;GLOB;inicial;27.0-38.0;g/L
+121;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;48.3;NA;GLOB;final;27.0-38.0;g/L
+122;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;40;NA;GLOB;final;27.0-38.0;g/L
+123;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;46.8;NA;GLOB;final;27.0-38.0;g/L
+124;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;44.8;NA;GLOB;final;27.0-38.0;g/L
+125;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;42;NA;GLOB;final;27.0-38.0;g/L
+126;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;38.2;H;GLOB;final;27.0-38.0;g/L
+127;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;47.8;NA;GLOB;final;27.0-38.0;g/L
+128;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;44.8;H;GLOB;final;27.0-38.0;g/L
+129;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;47;H;GLOB;final;27.0-38.0;g/L
+130;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;41;NA;GLOB;final;27.0-38.0;g/L
+131;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;49;H;GLOB;final;27.0-38.0;g/L
+132;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;49.5;NA;GLOB;final;27.0-38.0;g/L
+133;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;44.6;NA;GLOB;final;27.0-38.0;g/L
+134;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;41;H;GLOB;final;27.0-38.0;g/L
+135;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;43;NA;GLOB;final;27.0-38.0;g/L
+136;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;45.1;H;GLOB;final;27.0-38.0;g/L
+137;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;35;NA;GLOB;final;27.0-38.0;g/L
+138;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;48.5;H;GLOB;final;27.0-38.0;g/L
+139;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;45.4;H;GLOB;final;27.0-38.0;g/L
+140;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;45.4;H;GLOB;final;27.0-38.0;g/L
+141;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;0.77;NA;A/G;inicial;NA;NA
+142;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;0.84;NA;A/G;inicial;NA;NA
+143;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;0.54;NA;A/G;inicial;NA;NA
+144;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.78;NA;A/G;inicial;NA;NA
+145;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;0.76;NA;A/G;inicial;NA;NA
+146;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;0.86;NA;A/G;inicial;NA;NA
+147;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;0.78;NA;A/G;inicial;NA;NA
+148;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;0.93;NA;A/G;inicial;NA;NA
+149;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;0.8;NA;A/G;inicial;NA;NA
+150;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;0.83;NA;A/G;inicial;NA;NA
+151;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;0.63;NA;A/G;inicial;NA;NA
+152;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;0.66;NA;A/G;inicial;NA;NA
+153;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.64;NA;A/G;inicial;NA;NA
+154;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.64;NA;A/G;inicial;NA;NA
+155;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.73;NA;A/G;inicial;NA;NA
+156;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;0.75;NA;A/G;inicial;NA;NA
+157;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.93;NA;A/G;inicial;NA;NA
+158;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.55;NA;A/G;inicial;NA;NA
+159;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.67;NA;A/G;inicial;NA;NA
+160;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.92;NA;A/G;inicial;NA;NA
+161;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;0.81;NA;A/G;final;NA;NA
+162;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;0.8;NA;A/G;final;NA;NA
+163;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;0.61;NA;A/G;final;NA;NA
+164;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.8;NA;A/G;final;NA;NA
+165;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;0.83;NA;A/G;final;NA;NA
+166;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;0.91;NA;A/G;final;NA;NA
+167;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;0.79;NA;A/G;final;NA;NA
+168;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;0.88;NA;A/G;final;NA;NA
+169;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;0.77;NA;A/G;final;NA;NA
+170;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;0.84;NA;A/G;final;NA;NA
+171;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;0.62;NA;A/G;final;NA;NA
+172;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;0.65;NA;A/G;final;NA;NA
+173;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.68;NA;A/G;final;NA;NA
+174;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.68;NA;A/G;final;NA;NA
+175;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.75;NA;A/G;final;NA;NA
+176;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;0.77;NA;A/G;final;NA;NA
+177;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.88;NA;A/G;final;NA;NA
+178;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.55;NA;A/G;final;NA;NA
+179;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.67;NA;A/G;final;NA;NA
+180;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.67;NA;A/G;final;NA;NA
+181;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;1.4;NA;TB;inicial;0.0-12.0;umol/L
+182;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;8;NA;TB;inicial;0.0-12.0;umol/L
+183;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;5;NA;TB;inicial;0.0-12.0;umol/L
+184;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.8;NA;TB;inicial;0.0-12.0;umol/L
+185;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;3.2;NA;TB;inicial;0.0-12.0;umol/L
+186;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;4;NA;TB;inicial;0.0-12.0;umol/L
+187;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;0.9;NA;TB;inicial;0.0-12.0;umol/L
+188;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2;NA;TB;inicial;0.0-12.0;umol/L
+189;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;1.2;NA;TB;inicial;0.0-12.0;umol/L
+190;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;0.5;NA;TB;inicial;0.0-12.0;umol/L
+191;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;1;NA;TB;inicial;0.0-12.0;umol/L
+192;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;1.2;NA;TB;inicial;0.0-12.0;umol/L
+193;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.5;NA;TB;inicial;0.0-12.0;umol/L
+194;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.4;NA;TB;inicial;0.0-12.0;umol/L
+195;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.8;NA;TB;inicial;0.0-12.0;umol/L
+196;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;1;NA;TB;inicial;0.0-12.0;umol/L
+197;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.4;NA;TB;inicial;0.0-12.0;umol/L
+198;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.6;NA;TB;inicial;0.0-12.0;umol/L
+199;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.8;NA;TB;inicial;0.0-12.0;umol/L
+200;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.5;NA;TB;inicial;0.0-12.0;umol/L
+201;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;0.9;NA;TB;final;0.0-12.0;umol/L
+202;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;8;NA;TB;final;0.0-12.0;umol/L
+203;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;4.2;NA;TB;final;0.0-12.0;umol/L
+204;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.7;NA;TB;final;0.0-12.0;umol/L
+205;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;3.5;NA;TB;final;0.0-12.0;umol/L
+206;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;4.5;NA;TB;final;0.0-12.0;umol/L
+207;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;1;NA;TB;final;0.0-12.0;umol/L
+208;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.1;NA;TB;final;0.0-12.0;umol/L
+209;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;1.1;NA;TB;final;0.0-12.0;umol/L
+210;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;1;NA;TB;final;0.0-12.0;umol/L
+211;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;1;NA;TB;final;0.0-12.0;umol/L
+212;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;0.8;NA;TB;final;0.0-12.0;umol/L
+213;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.7;NA;TB;final;0.0-12.0;umol/L
+214;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.5;NA;TB;final;0.0-12.0;umol/L
+215;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.8;NA;TB;final;0.0-12.0;umol/L
+216;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;1.2;NA;TB;final;0.0-12.0;umol/L
+217;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.6;NA;TB;final;0.0-12.0;umol/L
+218;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.6;NA;TB;final;0.0-12.0;umol/L
+219;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.8;NA;TB;final;0.0-12.0;umol/L
+220;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.8;NA;TB;final;0.0-12.0;umol/L
+221;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;186;H;AST;inicial;0-91;U/L
+222;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;75;NA;AST;inicial;0-91;U/L
+223;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;130;H;AST;inicial;0-91;U/L
+224;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;120;H;AST;inicial;0-91;U/L
+225;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;70;NA;AST;inicial;0-91;U/L
+226;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;80;NA;AST;inicial;0-91;U/L
+227;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;130;H;AST;inicial;0-91;U/L
+228;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;145;H;AST;inicial;0-91;U/L
+229;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;150;H;AST;inicial;0-91;U/L
+230;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;85;NA;AST;inicial;0-91;U/L
+231;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;112;H;AST;inicial;0-91;U/L
+232;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;158;H;AST;inicial;0-91;U/L
+233;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;129;H;AST;inicial;0-91;U/L
+234;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;135;H;AST;inicial;0-91;U/L
+235;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;85;NA;AST;inicial;0-91;U/L
+236;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;120;H;AST;inicial;0-91;U/L
+237;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;85;NA;AST;inicial;0-91;U/L
+238;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;173;H;AST;inicial;0-91;U/L
+239;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;85;NA;AST;inicial;0-91;U/L
+240;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;72;NA;AST;inicial;0-91;U/L
+241;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;145;H;AST;final;0-91;U/L
+242;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;75;NA;AST;final;0-91;U/L
+243;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;112;H;AST;final;0-91;U/L
+244;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;115;H;AST;final;0-91;U/L
+245;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;72;NA;AST;final;0-91;U/L
+246;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;85;NA;AST;final;0-91;U/L
+247;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;125;H;AST;final;0-91;U/L
+248;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;160;H;AST;final;0-91;U/L
+249;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;135;H;AST;final;0-91;U/L
+250;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;110;NA;AST;final;0-91;U/L
+251;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;120;H;AST;final;0-91;U/L
+252;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;168;NA;AST;final;0-91;U/L
+253;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;145;NA;AST;final;0-91;U/L
+254;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;145;H;AST;final;0-91;U/L
+255;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;85;NA;AST;final;0-91;U/L
+256;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;132;H;AST;final;0-91;U/L
+257;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;95;NA;AST;final;0-91;U/L
+258;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;173;H;AST;final;0-91;U/L
+259;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;85;NA;AST;final;0-91;U/L
+260;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;85;NA;AST;final;0-91;U/L
+261;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;65;NA;ALT;inicial;NA;U/L
+262;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;40;NA;ALT;inicial;NA;U/L
+263;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;46;NA;ALT;inicial;NA;U/L
+264;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;40;NA;ALT;inicial;NA;U/L
+265;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;45;NA;ALT;inicial;NA;U/L
+266;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;50;NA;ALT;inicial;NA;U/L
+267;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;48;NA;ALT;inicial;NA;U/L
+268;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;55;NA;ALT;inicial;NA;U/L
+269;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;55;NA;ALT;inicial;NA;U/L
+270;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;32;NA;ALT;inicial;NA;U/L
+271;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;40;NA;ALT;inicial;NA;U/L
+272;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;39;NA;ALT;inicial;NA;U/L
+273;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;48;NA;ALT;inicial;NA;U/L
+274;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;46;NA;ALT;inicial;NA;U/L
+275;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;42;NA;ALT;inicial;NA;U/L
+276;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;55;NA;ALT;inicial;NA;U/L
+277;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;43;NA;ALT;inicial;NA;U/L
+278;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;47;NA;ALT;inicial;NA;U/L
+279;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;52;NA;ALT;inicial;NA;U/L
+280;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;42;NA;ALT;inicial;NA;U/L
+281;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;58;NA;ALT;final;NA;U/L
+282;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;40;NA;ALT;final;NA;U/L
+283;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;53;NA;ALT;final;NA;U/L
+284;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;42;NA;ALT;final;NA;U/L
+285;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;50;NA;ALT;final;NA;U/L
+286;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;55;NA;ALT;final;NA;U/L
+287;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;50;NA;ALT;final;NA;U/L
+288;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;60;NA;ALT;final;NA;U/L
+289;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;50;NA;ALT;final;NA;U/L
+290;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;35;NA;ALT;final;NA;U/L
+291;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;45;NA;ALT;final;NA;U/L
+292;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;43;NA;ALT;final;NA;U/L
+293;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;50;NA;ALT;final;NA;U/L
+294;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;50;NA;ALT;final;NA;U/L
+295;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;42;NA;ALT;final;NA;U/L
+296;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;60;NA;ALT;final;NA;U/L
+297;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;47;NA;ALT;final;NA;U/L
+298;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;47;NA;ALT;final;NA;U/L
+299;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;52;NA;ALT;final;NA;U/L
+300;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;52;NA;ALT;final;NA;U/L
+301;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;199;H;AMY;inicial;0-28;U/L
+302;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;24;NA;AMY;inicial;0-28;U/L
+303;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;89;H;AMY;inicial;0-28;U/L
+304;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;60;NA;AMY;inicial;0-28;U/L
+305;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;28;NA;AMY;inicial;0-28;U/L
+306;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;27;NA;AMY;inicial;0-28;U/L
+307;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;70;NA;AMY;inicial;0-28;U/L
+308;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;134;H;AMY;inicial;0-28;U/L
+309;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;120;H;AMY;inicial;0-28;U/L
+310;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;55;NA;AMY;inicial;0-28;U/L
+311;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;75;H;AMY;inicial;0-28;U/L
+312;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;91;H;AMY;inicial;0-28;U/L
+313;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;74;H;AMY;inicial;0-28;U/L
+314;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;80;H;AMY;inicial;0-28;U/L
+315;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;25;NA;AMY;inicial;0-28;U/L
+316;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;82;H;AMY;inicial;0-28;U/L
+317;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;25;NA;AMY;inicial;0-28;U/L
+318;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;87;H;AMY;inicial;0-28;U/L
+319;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;60;NA;AMY;inicial;0-28;U/L
+320;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;28;NA;AMY;inicial;0-28;U/L
+321;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;140;H;AMY;final;0-28;U/L
+322;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;24;NA;AMY;final;0-28;U/L
+323;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;95;H;AMY;final;0-28;U/L
+324;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;72;H;AMY;final;0-28;U/L
+325;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;28.5;H;AMY;final;0-28;U/L
+326;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;30;H;AMY;final;0-28;U/L
+327;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;75;NA;AMY;final;0-28;U/L
+328;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;145;H;AMY;final;0-28;U/L
+329;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;110;H;AMY;final;0-28;U/L
+330;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;60;NA;AMY;final;0-28;U/L
+331;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;80;H;AMY;final;0-28;U/L
+332;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;95;NA;AMY;final;0-28;U/L
+333;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;80;NA;AMY;final;0-28;U/L
+334;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;85;H;AMY;final;0-28;U/L
+335;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;25;NA;AMY;final;0-28;U/L
+336;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;85;H;AMY;final;0-28;U/L
+337;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;28;NA;AMY;final;0-28;U/L
+338;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;87;H;AMY;final;0-28;U/L
+339;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;60;NA;AMY;final;0-28;U/L
+340;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;60;NA;AMY;final;0-28;U/L
+341;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;403;H;CK;inicial;0-110;U/L
+342;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;90;NA;CK;inicial;0-110;U/L
+343;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;172;H;CK;inicial;0-110;U/L
+344;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;190;H;CK;inicial;0-110;U/L
+345;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;110;NA;CK;inicial;0-110;U/L
+346;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;95;NA;CK;inicial;0-110;U/L
+347;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;220;H;CK;inicial;0-110;U/L
+348;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;325;H;CK;inicial;0-110;U/L
+349;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;320;H;CK;inicial;0-110;U/L
+350;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;115;NA;CK;inicial;0-110;U/L
+351;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;220;H;CK;inicial;0-110;U/L
+352;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;250;H;CK;inicial;0-110;U/L
+353;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;205;H;CK;inicial;0-110;U/L
+354;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;210;H;CK;inicial;0-110;U/L
+355;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;95;NA;CK;inicial;0-110;U/L
+356;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;180;H;CK;inicial;0-110;U/L
+357;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;95;NA;CK;inicial;0-110;U/L
+358;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;178;H;CK;inicial;0-110;U/L
+359;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;210;H;CK;inicial;0-110;U/L
+360;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;115;NA;CK;inicial;0-110;U/L
+361;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;365;H;CK;final;0-110;U/L
+362;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;90;NA;CK;final;0-110;U/L
+363;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;180;H;CK;final;0-110;U/L
+364;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;180;H;CK;final;0-110;U/L
+365;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;115;H;CK;final;0-110;U/L
+366;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;100;NA;CK;final;0-110;U/L
+367;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;210;H;CK;final;0-110;U/L
+368;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;350;H;CK;final;0-110;U/L
+369;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;300;H;CK;final;0-110;U/L
+370;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;120;NA;CK;final;0-110;U/L
+371;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;230;H;CK;final;0-110;U/L
+372;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;290;NA;CK;final;0-110;U/L
+373;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;220;NA;CK;final;0-110;U/L
+374;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;220;H;CK;final;0-110;U/L
+375;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;95;NA;CK;final;0-110;U/L
+376;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;190;H;CK;final;0-110;U/L
+377;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;105;NA;CK;final;0-110;U/L
+378;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;178;H;CK;final;0-110;U/L
+379;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;210;H;CK;final;0-110;U/L
+380;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;210;H;CK;final;0-110;U/L
+381;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;96.8;NA;Crea;inicial;44.0-159.0;umol/L
+382;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;96.8;NA;Crea;inicial;44.0-159.0;umol/L
+383;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;98;NA;Crea;inicial;44.0-159.0;umol/L
+384;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;85;NA;Crea;inicial;44.0-159.0;umol/L
+385;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;88;NA;Crea;inicial;44.0-159.0;umol/L
+386;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;90;NA;Crea;inicial;44.0-159.0;umol/L
+387;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;92.5;NA;Crea;inicial;44.0-159.0;umol/L
+388;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;120.5;NA;Crea;inicial;44.0-159.0;umol/L
+389;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;85;NA;Crea;inicial;44.0-159.0;umol/L
+390;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;100.2;NA;Crea;inicial;44.0-159.0;umol/L
+391;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;115;NA;Crea;inicial;44.0-159.0;umol/L
+392;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;110.5;NA;Crea;inicial;44.0-159.0;umol/L
+393;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;107.3;NA;Crea;inicial;44.0-159.0;umol/L
+394;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;120;NA;Crea;inicial;44.0-159.0;umol/L
+395;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;95;NA;Crea;inicial;44.0-159.0;umol/L
+396;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;85.2;NA;Crea;inicial;44.0-159.0;umol/L
+397;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;80;NA;Crea;inicial;44.0-159.0;umol/L
+398;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;91.6;NA;Crea;inicial;44.0-159.0;umol/L
+399;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;96.3;NA;Crea;inicial;44.0-159.0;umol/L
+400;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;95;NA;Crea;inicial;44.0-159.0;umol/L
+401;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;103.1;NA;Crea;final;44.0-159.0;umol/L
+402;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;96.8;NA;Crea;final;44.0-159.0;umol/L
+403;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;102.2;NA;Crea;final;44.0-159.0;umol/L
+404;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;90.5;NA;Crea;final;44.0-159.0;umol/L
+405;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;92;NA;Crea;final;44.0-159.0;umol/L
+406;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;92;NA;Crea;final;44.0-159.0;umol/L
+407;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;95;NA;Crea;final;44.0-159.0;umol/L
+408;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;125;NA;Crea;final;44.0-159.0;umol/L
+409;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;80;NA;Crea;final;44.0-159.0;umol/L
+410;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;105;NA;Crea;final;44.0-159.0;umol/L
+411;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;118;NA;Crea;final;44.0-159.0;umol/L
+412;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;116.5;NA;Crea;final;44.0-159.0;umol/L
+413;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;110.5;NA;Crea;final;44.0-159.0;umol/L
+414;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;125;NA;Crea;final;44.0-159.0;umol/L
+415;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;92;NA;Crea;final;44.0-159.0;umol/L
+416;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;88.5;NA;Crea;final;44.0-159.0;umol/L
+417;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;83;NA;Crea;final;44.0-159.0;umol/L
+418;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;91.6;NA;Crea;final;44.0-159.0;umol/L
+419;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;96.3;NA;Crea;final;44.0-159.0;umol/L
+420;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;96.3;NA;Crea;final;44.0-159.0;umol/L
+421;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;1.93;L;BUN;inicial;2.14-6.10;mmol/L
+422;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;4;NA;BUN;inicial;2.14-6.10;mmol/L
+423;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;1.18;L;BUN;inicial;2.14-6.10;mmol/L
+424;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;3.1;NA;BUN;inicial;2.14-6.10;mmol/L
+425;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;5;NA;BUN;inicial;2.14-6.10;mmol/L
+426;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;4.8;NA;BUN;inicial;2.14-6.10;mmol/L
+427;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;3.2;NA;BUN;inicial;2.14-6.10;mmol/L
+428;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;3.1;NA;BUN;inicial;2.14-6.10;mmol/L
+429;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.5;NA;BUN;inicial;2.14-6.10;mmol/L
+430;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;4;NA;BUN;inicial;2.14-6.10;mmol/L
+431;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;4.8;NA;BUN;inicial;2.14-6.10;mmol/L
+432;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;2.75;L;BUN;inicial;2.14-6.10;mmol/L
+433;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.58;NA;BUN;inicial;2.14-6.10;mmol/L
+434;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;3.1;NA;BUN;inicial;2.14-6.10;mmol/L
+435;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;3;NA;BUN;inicial;2.14-6.10;mmol/L
+436;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;3.48;NA;BUN;inicial;2.14-6.10;mmol/L
+437;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;3;NA;BUN;inicial;2.14-6.10;mmol/L
+438;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.66;L;BUN;inicial;2.14-6.10;mmol/L
+439;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;4.25;NA;BUN;inicial;2.14-6.10;mmol/L
+440;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;3.3;NA;BUN;inicial;2.14-6.10;mmol/L
+441;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;3.15;NA;BUN;final;2.14-6.10;mmol/L
+442;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;3.5;NA;BUN;final;2.14-6.10;mmol/L
+443;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;2.65;NA;BUN;final;2.14-6.10;mmol/L
+444;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;3.3;NA;BUN;final;2.14-6.10;mmol/L
+445;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;5.4;NA;BUN;final;2.14-6.10;mmol/L
+446;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;5.2;NA;BUN;final;2.14-6.10;mmol/L
+447;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;3.4;NA;BUN;final;2.14-6.10;mmol/L
+448;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.8;NA;BUN;final;2.14-6.10;mmol/L
+449;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.8;NA;BUN;final;2.14-6.10;mmol/L
+450;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;4.2;NA;BUN;final;2.14-6.10;mmol/L
+451;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;5;NA;BUN;final;2.14-6.10;mmol/L
+452;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;3;NA;BUN;final;2.14-6.10;mmol/L
+453;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.9;NA;BUN;final;2.14-6.10;mmol/L
+454;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;3.2;NA;BUN;final;2.14-6.10;mmol/L
+455;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;2.5;NA;BUN;final;2.14-6.10;mmol/L
+456;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;3.6;NA;BUN;final;2.14-6.10;mmol/L
+457;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;3.2;NA;BUN;final;2.14-6.10;mmol/L
+458;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.66;NA;BUN;final;2.14-6.10;mmol/L
+459;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;4.25;NA;BUN;final;2.14-6.10;mmol/L
+460;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;4.25;NA;BUN;final;2.14-6.10;mmol/L
+461;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;19.882;NA;BUN/CREA;inicial;NA;NA
+462;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;4.13;NA;BUN/CREA;inicial;NA;NA
+463;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;12.089;NA;BUN/CREA;inicial;NA;NA
+464;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;18.2;NA;BUN/CREA;inicial;NA;NA
+465;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;5.68;NA;BUN/CREA;inicial;NA;NA
+466;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;5.33;NA;BUN/CREA;inicial;NA;NA
+467;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;17.3;NA;BUN/CREA;inicial;NA;NA
+468;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;6.27;NA;BUN/CREA;inicial;NA;NA
+469;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;18.5;NA;BUN/CREA;inicial;NA;NA
+470;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;20;NA;BUN/CREA;inicial;NA;NA
+471;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;14.7;NA;BUN/CREA;inicial;NA;NA
+472;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;16.5;NA;BUN/CREA;inicial;NA;NA
+473;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;15.8;NA;BUN/CREA;inicial;NA;NA
+474;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;14.5;NA;BUN/CREA;inicial;NA;NA
+475;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;18;NA;BUN/CREA;inicial;NA;NA
+476;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;20.5;NA;BUN/CREA;inicial;NA;NA
+477;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;18.75;NA;BUN/CREA;inicial;NA;NA
+478;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;18.09;NA;BUN/CREA;inicial;NA;NA
+479;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;22.1;NA;BUN/CREA;inicial;NA;NA
+480;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;21;NA;BUN/CREA;inicial;NA;NA
+481;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;3.6;NA;BUN/CREA;final;NA;NA
+482;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;3.62;NA;BUN/CREA;final;NA;NA
+483;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;13;NA;BUN/CREA;final;NA;NA
+484;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;17.9;NA;BUN/CREA;final;NA;NA
+485;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;5.87;NA;BUN/CREA;final;NA;NA
+486;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;5.65;NA;BUN/CREA;final;NA;NA
+487;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;17.8;NA;BUN/CREA;final;NA;NA
+488;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;5.5;NA;BUN/CREA;final;NA;NA
+489;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;18.9;NA;BUN/CREA;final;NA;NA
+490;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;20;NA;BUN/CREA;final;NA;NA
+491;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;15;NA;BUN/CREA;final;NA;NA
+492;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;17;NA;BUN/CREA;final;NA;NA
+493;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;16;NA;BUN/CREA;final;NA;NA
+494;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;14;NA;BUN/CREA;final;NA;NA
+495;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;18;NA;BUN/CREA;final;NA;NA
+496;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;20;NA;BUN/CREA;final;NA;NA
+497;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;18.6;NA;BUN/CREA;final;NA;NA
+498;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;18.09;NA;BUN/CREA;final;NA;NA
+499;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;22.1;NA;BUN/CREA;final;NA;NA
+500;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;22.1;NA;BUN/CREA;final;NA;NA
+501;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;3.35;NA;GLU;inicial;2.56-6.13;mmol/L
+502;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;4.5;NA;GLU;inicial;2.56-6.13;mmol/L
+503;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;3.09;NA;GLU;inicial;2.56-6.13;mmol/L
+504;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;4.5;NA;GLU;inicial;2.56-6.13;mmol/L
+505;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;4.8;NA;GLU;inicial;2.56-6.13;mmol/L
+506;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;4.2;NA;GLU;inicial;2.56-6.13;mmol/L
+507;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;4.25;NA;GLU;inicial;2.56-6.13;mmol/L
+508;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;4.28;NA;GLU;inicial;2.56-6.13;mmol/L
+509;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;3.7;NA;GLU;inicial;2.56-6.13;mmol/L
+510;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;5.1;NA;GLU;inicial;2.56-6.13;mmol/L
+511;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;4.95;NA;GLU;inicial;2.56-6.13;mmol/L
+512;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;4.12;NA;GLU;inicial;2.56-6.13;mmol/L
+513;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;3.97;NA;GLU;inicial;2.56-6.13;mmol/L
+514;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;4.2;NA;GLU;inicial;2.56-6.13;mmol/L
+515;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;4.85;NA;GLU;inicial;2.56-6.13;mmol/L
+516;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;5.23;NA;GLU;inicial;2.56-6.13;mmol/L
+517;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;5.5;NA;GLU;inicial;2.56-6.13;mmol/L
+518;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;2.81;NA;GLU;inicial;2.56-6.13;mmol/L
+519;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;3.5;NA;GLU;inicial;2.56-6.13;mmol/L
+520;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;5;NA;GLU;inicial;2.56-6.13;mmol/L
+521;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;3;NA;GLU;final;2.56-6.13;mmol/L
+522;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;4.5;NA;GLU;final;2.56-6.13;mmol/L
+523;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;3.4;NA;GLU;final;2.56-6.13;mmol/L
+524;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;4.6;NA;GLU;final;2.56-6.13;mmol/L
+525;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;4.9;NA;GLU;final;2.56-6.13;mmol/L
+526;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;4.35;NA;GLU;final;2.56-6.13;mmol/L
+527;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;4.5;NA;GLU;final;2.56-6.13;mmol/L
+528;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;4.1;NA;GLU;final;2.56-6.13;mmol/L
+529;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;4;NA;GLU;final;2.56-6.13;mmol/L
+530;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;5.25;NA;GLU;final;2.56-6.13;mmol/L
+531;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;5;NA;GLU;final;2.56-6.13;mmol/L
+532;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;4.35;NA;GLU;final;2.56-6.13;mmol/L
+533;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;4.15;NA;GLU;final;2.56-6.13;mmol/L
+534;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;4.15;NA;GLU;final;2.56-6.13;mmol/L
+535;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;4.8;NA;GLU;final;2.56-6.13;mmol/L
+536;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;5.35;NA;GLU;final;2.56-6.13;mmol/L
+537;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;5.4;NA;GLU;final;2.56-6.13;mmol/L
+538;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;2.81;NA;GLU;final;2.56-6.13;mmol/L
+539;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;3.5;NA;GLU;final;2.56-6.13;mmol/L
+540;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;3.5;NA;GLU;final;2.56-6.13;mmol/L
+541;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;0.3;<;TG;inicial;NA;mmol/L
+542;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;0.28;NA;TG;inicial;NA;mmol/L
+543;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;0.3;<;TG;inicial;NA;mmol/L
+544;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.3;<;TG;inicial;NA;mmol/L
+545;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;0.25;NA;TG;inicial;NA;mmol/L
+546;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;0.28;NA;TG;inicial;NA;mmol/L
+547;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;0.3;<;TG;inicial;NA;mmol/L
+548;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;0.21;NA;TG;inicial;NA;mmol/L
+549;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;0.4;NA;TG;inicial;NA;mmol/L
+550;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;0.3;<;TG;inicial;NA;mmol/L
+551;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;0.22;NA;TG;inicial;NA;mmol/L
+552;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;0.3;<;TG;inicial;NA;mmol/L
+553;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.3;<;TG;inicial;NA;mmol/L
+554;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.28;NA;TG;inicial;NA;mmol/L
+555;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.3;<;TG;inicial;NA;mmol/L
+556;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;0.3;<;TG;inicial;NA;mmol/L
+557;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.3;<;TG;inicial;NA;mmol/L
+558;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.3;<;TG;inicial;NA;mmol/L
+559;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.3;<;TG;inicial;NA;mmol/L
+560;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.3;<;TG;inicial;NA;mmol/L
+561;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;0.25;NA;TG;final;NA;mmol/L
+562;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;0.28;NA;TG;final;NA;mmol/L
+563;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;0.3;<;TG;final;NA;mmol/L
+564;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;0.3;<;TG;final;NA;mmol/L
+565;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;0.3;NA;TG;final;NA;mmol/L
+566;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;0.3;NA;TG;final;NA;mmol/L
+567;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;0.3;<;TG;final;NA;mmol/L
+568;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;0.25;NA;TG;final;NA;mmol/L
+569;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;0.45;NA;TG;final;NA;mmol/L
+570;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;0.3;<;TG;final;NA;mmol/L
+571;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;0.25;NA;TG;final;NA;mmol/L
+572;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;0.4;NA;TG;final;NA;mmol/L
+573;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;0.3;NA;TG;final;NA;mmol/L
+574;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;0.35;NA;TG;final;NA;mmol/L
+575;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;0.3;<;TG;final;NA;mmol/L
+576;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;0.3;<;TG;final;NA;mmol/L
+577;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;0.3;<;TG;final;NA;mmol/L
+578;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;0.3;<;TG;final;NA;mmol/L
+579;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;0.3;<;TG;final;NA;mmol/L
+580;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;0.3;<;TG;final;NA;mmol/L
+581;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;2.09;NA;Ca;inicial;1.95-3.10;mmol/L
+582;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;2.5;NA;Ca;inicial;1.95-3.10;mmol/L
+583;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;1.98;NA;Ca;inicial;1.95-3.10;mmol/L
+584;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;2.35;NA;Ca;inicial;1.95-3.10;mmol/L
+585;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;2.4;NA;Ca;inicial;1.95-3.10;mmol/L
+586;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;2.3;NA;Ca;inicial;1.95-3.10;mmol/L
+587;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+588;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+589;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+590;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;2.4;NA;Ca;inicial;1.95-3.10;mmol/L
+591;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;2.3;NA;Ca;inicial;1.95-3.10;mmol/L
+592;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+593;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.08;NA;Ca;inicial;1.95-3.10;mmol/L
+594;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;2.15;NA;Ca;inicial;1.95-3.10;mmol/L
+595;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;2.1;NA;Ca;inicial;1.95-3.10;mmol/L
+596;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;2.05;NA;Ca;inicial;1.95-3.10;mmol/L
+597;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+598;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.99;NA;Ca;inicial;1.95-3.10;mmol/L
+599;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;2.13;NA;Ca;inicial;1.95-3.10;mmol/L
+600;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;2.25;NA;Ca;inicial;1.95-3.10;mmol/L
+601;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;2.45;NA;Ca;final;1.95-3.10;mmol/L
+602;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;2.5;NA;Ca;final;1.95-3.10;mmol/L
+603;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;2.05;NA;Ca;final;1.95-3.10;mmol/L
+604;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;2.4;NA;Ca;final;1.95-3.10;mmol/L
+605;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;2.45;NA;Ca;final;1.95-3.10;mmol/L
+606;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;2.45;NA;Ca;final;1.95-3.10;mmol/L
+607;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;2.3;NA;Ca;final;1.95-3.10;mmol/L
+608;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.2;NA;Ca;final;1.95-3.10;mmol/L
+609;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.3;NA;Ca;final;1.95-3.10;mmol/L
+610;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;2.45;NA;Ca;final;1.95-3.10;mmol/L
+611;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;2.25;NA;Ca;final;1.95-3.10;mmol/L
+612;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;2.37;NA;Ca;final;1.95-3.10;mmol/L
+613;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.15;NA;Ca;final;1.95-3.10;mmol/L
+614;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;2.25;NA;Ca;final;1.95-3.10;mmol/L
+615;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;2.1;NA;Ca;final;1.95-3.10;mmol/L
+616;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;2.15;NA;Ca;final;1.95-3.10;mmol/L
+617;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;2.35;NA;Ca;final;1.95-3.10;mmol/L
+618;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.99;NA;Ca;final;1.95-3.10;mmol/L
+619;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;2.13;NA;Ca;final;1.95-3.10;mmol/L
+620;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;2.13;NA;Ca;final;1.95-3.10;mmol/L
+621;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;2.18;NA;PHOS;inicial;1.38-2.55;mmol/L
+622;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;2.4;NA;PHOS;inicial;1.38-2.55;mmol/L
+623;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;1.78;NA;PHOS;inicial;1.38-2.55;mmol/L
+624;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;2.3;NA;PHOS;inicial;1.38-2.55;mmol/L
+625;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;2.3;NA;PHOS;inicial;1.38-2.55;mmol/L
+626;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;2.1;NA;PHOS;inicial;1.38-2.55;mmol/L
+627;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;2.2;NA;PHOS;inicial;1.38-2.55;mmol/L
+628;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.05;NA;PHOS;inicial;1.38-2.55;mmol/L
+629;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.3;NA;PHOS;inicial;1.38-2.55;mmol/L
+630;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;2.4;NA;PHOS;inicial;1.38-2.55;mmol/L
+631;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;2.1;NA;PHOS;inicial;1.38-2.55;mmol/L
+632;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;1.95;NA;PHOS;inicial;1.38-2.55;mmol/L
+633;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.1;NA;PHOS;inicial;1.38-2.55;mmol/L
+634;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;2.05;NA;PHOS;inicial;1.38-2.55;mmol/L
+635;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;2.2;NA;PHOS;inicial;1.38-2.55;mmol/L
+636;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;2.17;NA;PHOS;inicial;1.38-2.55;mmol/L
+637;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;2;NA;PHOS;inicial;1.38-2.55;mmol/L
+638;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.83;NA;PHOS;inicial;1.38-2.55;mmol/L
+639;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;2;NA;PHOS;inicial;1.38-2.55;mmol/L
+640;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;2.25;NA;PHOS;inicial;1.38-2.55;mmol/L
+641;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;466.00;468.00;470.00;471.5;473.00;7.00;2;NA;PHOS;final;1.38-2.55;mmol/L
+642;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;308.00;309.5;311.00;312.00;313.00;5.00;2.4;NA;PHOS;final;1.38-2.55;mmol/L
+643;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;444.00;446.00;448.00;8.00;1.95;NA;PHOS;final;1.38-2.55;mmol/L
+644;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;493.00;495.00;497.5;499.00;500.00;7.00;2.35;NA;PHOS;final;1.38-2.55;mmol/L
+645;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;473.00;474.5;476.00;477.5;479.00;6.00;2.35;NA;PHOS;final;1.38-2.55;mmol/L
+646;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;432.00;434.00;436.00;438.00;440.00;8.00;2.15;NA;PHOS;final;1.38-2.55;mmol/L
+647;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;400.00;402.5;405.00;406.5;408.00;8.00;2.25;NA;PHOS;final;1.38-2.55;mmol/L
+648;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.00;455.5;457.00;7.00;2.15;NA;PHOS;final;1.38-2.55;mmol/L
+649;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;467.00;468.5;469.00;469.5;470.00;3.00;2.4;NA;PHOS;final;1.38-2.55;mmol/L
+650;Mazorca de cacao;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;390.00;389.00;394.00;394.00;396.00;6.00;2.45;NA;PHOS;final;1.38-2.55;mmol/L
+651;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 1;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;460.00;462.00;464.00;469.00;464.00;4.00;2.05;NA;PHOS;final;1.38-2.55;mmol/L
+652;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 2;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;475.00;478.00;480.00;481.00;475.00;0.00;2.15;NA;PHOS;final;1.38-2.55;mmol/L
+653;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 3;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;495.00;497.00;498.00;500.00;500.00;5.00;2.05;NA;PHOS;final;1.38-2.55;mmol/L
+654;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 4;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;487.5;489.00;490.00;491.00;6.00;2.1;NA;PHOS;final;1.38-2.55;mmol/L
+655;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 5;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;440.00;442.00;445.00;448.00;447.00;7.00;2.2;NA;PHOS;final;1.38-2.55;mmol/L
+656;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 6;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;470.00;468.00;468.00;470.00;470.00;0.00;2.2;NA;PHOS;final;1.38-2.55;mmol/L
+657;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 7;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;485.00;486.5;488.5;489.5;490.00;5.00;2.05;NA;PHOS;final;1.38-2.55;mmol/L
+658;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 8;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;510.00;510.00;512.00;515.00;512.00;2.00;1.83;NA;PHOS;final;1.38-2.55;mmol/L
+659;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 9;Hembra;Ganado Bos taurus x Bos indicus;2 años de edad;450.00;452.00;454.5;456.00;457.00;7.00;2;NA;PHOS;final;1.38-2.55;mmol/L
+660;Banano verde;10 g MS/kg de peso vivo al dia;Bovino 10;Macho;Ganado Bos taurus x Bos indicus;2 años de edad;430.00;432.00;432.00;432.00;430.00;0.00;2;NA;PHOS;final;1.38-2.55;mmol/L
